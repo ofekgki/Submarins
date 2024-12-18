@@ -1,0 +1,106 @@
+New Client --Ip:127.0.0.1:56633
+
+Server Send:  Yes
+
+Server Send:  No
+
+15:10:37 PM
+Client:  127.0.0.1:56633  ,  Password Change:  ofek22,   Username:ofekk......
+
+Server Send:  Success Reset
+
+15:10:48 PM
+Client:  127.0.0.1:56633  ,  Login Information:  ofekk, ofek22......
+
+Server Send:  Success
+
+15:10:48 PM
+Login Successed .......
+
+Server Send:  Already Connected
+
+New Client --Ip:127.0.0.1:56707
+
+15:11:09 PM
+Client:  127.0.0.1:56707  ,  Login Information:  ofekgki, sokk8965......
+
+Server Send:  Success
+
+15:11:09 PM
+Login Successed .......
+
+Server Send:  Already Connected
+
+Server Send:  List:  ofekk, 
+
+
+Server Send:  List:  ofekk, 
+
+
+15:11:15 PM
+Client127.0.0.1:56633  ,   List Sended .....
+
+15:11:15 PM
+Client127.0.0.1:56633Ready:    , True.....
+
+Server Send:  List:  ofekk, ofekgki, 
+
+
+Server Send:  List:  ofekk, ofekgki, 
+
+
+15:11:18 PM
+Client127.0.0.1:56707  ,   List Sended .....
+
+15:11:18 PM
+Client127.0.0.1:56707Ready:    , True.....
+
+Server Send:  Askofekgki Has Requested To Play A Game With You. 
+
+Server Send:  Yes
+
+Server Send:  NewL
+
+
+Server Send:  NewL
+
+
+Server Send:  List:  
+
+
+Server Send:  List:  
+
+
+15:11:25 PM
+Client127.0.0.1:56633  ,   List Sended .....
+
+Server Send:  BC:j
+
+Server Send:  BC:j
+
+15:11:37 PM
+Client127.0.0.1:56707  ,  Board Chat Writing:  :j......
+
+Server Send:  BC:j
+
+15:11:42 PM
+Client127.0.0.1:56633  ,  Board Chat Writing:  :j......
+
+Server Send:  BC:j
+
+Server Send:  BC:j
+
+15:11:49 PM
+Client127.0.0.1:56707  ,  Board Chat Writing:  :j......
+
+Server Send:  BC:j
+
+15:11:50 PM
+Client127.0.0.1:56633  ,  Board Chat Writing:  :j......
+
+15:13:18 PM
+Client127.0.0.1:56633   ,  Program Crashed.....
+
+15:13:18 PM
+Client127.0.0.1:56707   ,  Program Crashed.....
+

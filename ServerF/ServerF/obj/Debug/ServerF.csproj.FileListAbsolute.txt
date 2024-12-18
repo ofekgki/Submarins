@@ -1,0 +1,48 @@
+D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe.config
+D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe
+D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\bin\Debug\ServerF.pdb
+D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\obj\Debug\ServerF.exe
+D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\ofekg\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe.config
+C:\Users\ofekg\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\obj\Debug\ServerF.exe
+C:\Users\ofekg\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\ofekg\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe
+C:\Users\ofekg\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\bin\Debug\ServerF.pdb
+C:\Users\ofekg\Documents\Visual Studio 2015\Projects\Kanari\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe.config
+C:\Users\User\Desktop\Kanari\ServerF\ServerF\obj\Debug\ServerF.exe
+C:\Users\User\Desktop\Kanari\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\User\Desktop\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe
+C:\Users\User\Desktop\Kanari\ServerF\ServerF\bin\Debug\ServerF.pdb
+C:\Users\User\Desktop\Kanari\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+C:\Users\ofekg\Desktop\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe.config
+C:\Users\ofekg\Desktop\Kanari\ServerF\ServerF\obj\Debug\ServerF.exe
+C:\Users\ofekg\Desktop\Kanari\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\ofekg\Desktop\Kanari\ServerF\ServerF\bin\Debug\ServerF.exe
+C:\Users\ofekg\Desktop\Kanari\ServerF\ServerF\bin\Debug\ServerF.pdb
+C:\Users\ofekg\Desktop\Kanari\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+C:\Users\zohar\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe.config
+C:\Users\zohar\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.exe
+C:\Users\zohar\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\zohar\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe
+C:\Users\zohar\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.pdb
+C:\Users\zohar\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+F:\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe.config
+F:\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.exe
+F:\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.pdb
+F:\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe
+F:\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.pdb
+F:\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+C:\Users\ofekg\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe.config
+C:\Users\ofekg\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.exe
+C:\Users\ofekg\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\User\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe.config
+C:\Users\User\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.exe
+C:\Users\User\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.pdb
+C:\Users\User\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe
+C:\Users\User\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.pdb
+C:\Users\User\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache
+C:\Users\ofekg\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.exe
+C:\Users\ofekg\Desktop\Ofek Project\ServerF\ServerF\bin\Debug\ServerF.pdb
+C:\Users\ofekg\Desktop\Ofek Project\ServerF\ServerF\obj\Debug\ServerF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+ if ((localclient.Visible) && (localclient != null))
+                        localclient.Invoke(new delHomeUpdateMss(localclient.UpdateMss), para);
+                    else
+                        if ((lg.Visible) && (lg != null))
+                          lg.Invoke(new delHomeUpdateMss(lg.UpdateMss), para);
+                    else
+                       if ((lb.Visible) && (lb != null))
+                          lb.Invoke(new delHomeUpdateMss(lb.UpdateMss), para);
+                    else
+                       if ((brd.Visible) && (brd != null))
+                          brd.Invoke(new delHomeUpdateMss(brd.UpdateMss), para);
+                    else
+                       if ((gh.Visible) && (gh != null))
+                          gh.Invoke(new delHomeUpdateMss(gh.UpdateMss), para);
+                    else
+                       if ((cap.Visible) && (cap != null))
+                          cap.Invoke(new delHomeUpdateMss(cap.UpdateMss), para);
+                    else
+                      if ((fgt.Visible) && (fgt != null))
+                          fgt.Invoke(new delHomeUpdateMss(fgt.UpdateMss), para);
+                    else
+                        if ((rg.Visible) && (rg != null))
+                            rg.Invoke(new delHomeUpdateMss(rg.UpdateMss), para);
+                    else
+                        if ((rst.Visible) && (rst != null))
+                            rst.Invoke(new delHomeUpdateMss(rst.UpdateMss), para);

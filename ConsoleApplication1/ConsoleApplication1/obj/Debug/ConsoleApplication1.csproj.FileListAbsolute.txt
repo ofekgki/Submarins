@@ -1,6 +1,0 @@
-D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Users\User\Documents\Visual Studio 2015\Projects\Kanari\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
